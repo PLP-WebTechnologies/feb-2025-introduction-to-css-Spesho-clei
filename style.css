@@ -1,0 +1,33 @@
+/* Apply a different font */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Styling an image */
+.styled-image {
+    width: 300px;
+    height: auto;
+    border: 5px solid #333;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+/* Style heading with a class */
+.title {
+    color: #2c3e50;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+/* Style paragraph with an ID */
+#intro {
+    color: #555;
+    padding: 10px;
+    border: 2px dashed #777;
+    max-width: 60%;
+    margin: auto;
+}
